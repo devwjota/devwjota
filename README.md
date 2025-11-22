@@ -13,4 +13,3 @@
 ### 🚀 Sobre mim
 - 🔭 Trabalhando atualmente em projetos pessoais.
 - 🌱 Focado em aprimorar minha stack principal mostrada acima.
-- 📫 **[Seu Email ou LinkedIn]**
