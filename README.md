@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o WJOTA! 👋
 
-<!--
-**devwjota/devwjota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Minhas Linguagens (Baseado nos meus Projetos)
 
-Here are some ideas to get you started:
+<div align="left">
+  <a href="https://github.com/devwjota">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwjota&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
--->
+---
+
+### 🚀 Sobre mim
+- 🔭 Trabalhando atualmente em projetos pessoais.
+- 🌱 Focado em aprimorar minha stack principal mostrada acima.
+- 📫 **[Seu Email ou LinkedIn]**
