@@ -1,50 +1,43 @@
 <div align="center">
   
-  # Olá, eu sou o WJOTA! 👋
-  
-  ### 🚀 Desenvolvedor Web | Focado em Nuxt.js & Vue.js
+  <a href="https://github.com/devwjota">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00DC82&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+WJOTA!+%F0%9F%91%8B;Desenvolvedor+Web;Focado+em+Vue.js+%26+Nuxt.js" alt="Typing SVG" />
+  </a>
 
   <p>
-    <em>Transformando café em código e ideias em interfaces dinâmicas.</em>
+    <em>Transformando lógica em código e ideias em aplicações eficientes.</em>
   </p>
 
-  ---
-  
-  ### 🛠️ Tech Stack & Ferramentas
-  
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt.js" />
-  </p>
 </div>
 
 ---
 
-### ⚡ Sobre mim
+<div align="center">
+  
+  <h3> ⚙️ Arsenal Tecnológico </h3>
+  <p><code>Linguagens</code> | <code>Frameworks</code> | <code>Banco de Dados</code></p>
+  <br>
+
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,ts,js,py,php&theme=dark" alt="Minhas Skills" /></a>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
+  
+  <br><br>
+</div>
+
+---
+
+### 🚀 Sobre mim
 
 - 🔭 **Atualmente:** Estagiário em desenvolvimento Web.
-- 🌱 **Aprendendo:** Aprofundando em arquitetura de projetos com **Nuxt 3**.
-- 💼 **Foco:** Criar componentes reutilizáveis e performáticos.
-- 💬 **Pergunte-me sobre:** Vue.js, Componentização e Desenvolvimento Front-end.
+- 💼 **Foco:** Criar soluções robustas no back-end e interfaces dinâmicas no front-end explorando o ecossistema Vue.js e Nuxt.js.
+- 🌱 **Evoluindo em:** Arquitetura de software e boas práticas de desenvolvimento.
 
 ---
 
-### 📊 Github Stats
+### 📇 Vamos nos conectar?
+
+<br>
 
 <div align="center">
-  <a href="https://github.com/devwjota">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwjota&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
+  <a href="mailto:devwjota021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/wanderson-júnior-885b77321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
-
-<div align="center">
-  <br>
-  <a href="mailto:devwjota021@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/wanderson-júnior-885b77321">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+<br>
