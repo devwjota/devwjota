@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  <h3> ⚙️ Arsenal Tecnológico </h3>
+  <h3> ⚙️ Tecnológias </h3>
   <p><code>Linguagens</code> | <code>Frameworks</code> | <code>Banco de Dados</code></p>
   <br>
 
